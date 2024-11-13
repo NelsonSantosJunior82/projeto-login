@@ -28,7 +28,7 @@ section#login{
     background-color: white;
     width: 250px;
     height: 500px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 section#login > div#imagem{
@@ -40,5 +40,6 @@ section#login > div#imagem{
 }
 
 section#login > div#formulario{
-    
+    display: block;
+    padding: 10px;
 }
